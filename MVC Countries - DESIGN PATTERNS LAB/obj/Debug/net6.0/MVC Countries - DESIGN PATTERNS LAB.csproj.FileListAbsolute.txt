@@ -1,0 +1,15 @@
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\bin\Debug\net6.0\MVC Countries - DESIGN PATTERNS LAB.exe
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\bin\Debug\net6.0\MVC Countries - DESIGN PATTERNS LAB.deps.json
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\bin\Debug\net6.0\MVC Countries - DESIGN PATTERNS LAB.runtimeconfig.json
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\bin\Debug\net6.0\MVC Countries - DESIGN PATTERNS LAB.dll
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\bin\Debug\net6.0\MVC Countries - DESIGN PATTERNS LAB.pdb
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS LAB.csproj.AssemblyReference.cache
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS LAB.AssemblyInfoInputs.cache
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS LAB.AssemblyInfo.cs
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS LAB.csproj.CoreCompileInputs.cache
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS LAB.dll
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\obj\Debug\net6.0\refint\MVC Countries - DESIGN PATTERNS LAB.dll
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS LAB.pdb
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS LAB.genruntimeconfig.cache
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\MVC Countries - DESIGN PATTERNS LAB\MVC Countries - DESIGN PATTERNS LAB\obj\Debug\net6.0\ref\MVC Countries - DESIGN PATTERNS LAB.dll
